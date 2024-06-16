@@ -1,0 +1,42 @@
+export const data = [
+    {
+        question: "What is the full form of IOT?",
+        option1: "Internet of Telecommunication",
+        option2: "Internet of Transmitter",
+        option3: "Intranet of Things",
+        option4: "Internet of Things",
+        ans: 4,
+    },
+    {
+        question: "What is the most programmable language?",
+        option1: "C++",
+        option2: "Java",
+        option3: "Python",
+        option4: "HTML",
+        ans: 3,
+    },
+    {
+        question: "How many layers is present in IOT architecture ?",
+        option1: "6",
+        option2: "3",
+        option3: "7",
+        option4: "5",
+        ans: 2,
+    },
+    {
+        question: "Which of the following is not used in IOT ?",
+        option1: "Sensor",
+        option2: "Actuator",
+        option3: "Rectifier",
+        option4: "Transducer",
+        ans: 3,
+    },
+    {
+        question: "Which of the following is not used in network security ?",
+        option1: "Authorisation",
+        option2: "Authentication",
+        option3: "Identification",
+        option4: "Data Integrity",
+        ans: 3,
+    },
+]
